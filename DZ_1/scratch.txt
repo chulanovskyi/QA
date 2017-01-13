@@ -1,0 +1,15 @@
+DZ_1
+
+1. Go to the site http://...
+2. Click the 'Archive' link in navigation menu.
+3. Ensure that main content contains articles dated by january 2016.
+4. Click the 'January 2016' link in sidebar.
+
+Actual result: The error page "HTTP 404" is displayed after clicking link "January 2016" in sidebar.
+Expected result: The articles, dated by January 2016, is shown in main content
+
+
+or
+The articles isn't shown after clicking link 'January 2016' in sidemenu
+
+---
